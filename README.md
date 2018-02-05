@@ -25,6 +25,7 @@ is a module type which provides more application oriented software such as a USB
 ### Components 
 This is a module type which provides software drivers to access external hardware components such as memory (e.g. DataFlash, SDRAM, SRAM, and NAND flash), displays, sensors, wireless, etc.
 
-Boards contains mapping of all digital and analog peripheral to each I/O pin of differnt development kits.
+### Boards
+It contains mapping of all digital and analog peripheral to each I/O pin of differnt development kits.
 
 
